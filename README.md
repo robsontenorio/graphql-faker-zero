@@ -18,7 +18,7 @@ yarn global add graphql-faker-zero
 
 Run
 ```
-~/.yarn/bin/graphql-faker-zero graphql-faker-zero my-schema.graphql
+~/.yarn/bin/graphql-faker-zero my-schema.graphql
 ```
 
 
